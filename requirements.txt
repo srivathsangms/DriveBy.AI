@@ -1,0 +1,45 @@
+# =========================
+# CORE AI & COMPUTER VISION
+# =========================
+opencv-python
+mediapipe
+numpy
+scipy
+torch
+torchvision
+onnxruntime
+pygame
+
+# =========================
+# BACKEND - FASTAPI
+# =========================
+fastapi
+uvicorn[standard]
+gunicorn
+
+# =========================
+# DATABASE
+# =========================
+sqlalchemy
+alembic
+psycopg2-binary
+
+# =========================
+# AUTHENTICATION & SECURITY
+# =========================
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+
+# =========================
+# CONFIGURATION
+# =========================
+python-dotenv
+pydantic
+pydantic-settings
+
+# =========================
+# UTILITIES
+# =========================
+requests
+websockets

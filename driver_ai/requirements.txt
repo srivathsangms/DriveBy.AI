@@ -1,0 +1,11 @@
+opencv-python
+mediapipe
+torch
+torchvision
+numpy
+onnxruntime
+pygame
+requests
+mouse
+fer
+tensorflow

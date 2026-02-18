@@ -1,0 +1,48 @@
+DriveBy.AI - Project Dependencies
+
+============================================================
+BACKEND (Python / FastAPI)
+path: /backend/requirements.txt
+============================================================
+1. fastapi - Modern, fast (high-performance), web framework for building APIs with Python 3.7+ based on standard Python type hints.
+2. uvicorn[standard] - ASGI web server implementation for Python.
+3. gunicorn - Python WSGI HTTP Server for UNIX.
+4. sqlalchemy - The Python SQL Toolkit and Object Relational Mapper.
+5. alembic - A database migration tool for SQLAlchemy.
+6. python-jose[cryptography] - A JavaScript Object Signing and Encryption implementation in Python.
+7. passlib[bcrypt] - Password hashing library for Python.
+8. python-dotenv - Reads key-value pairs from a .env file and can set them as environment variables.
+9. pydantic-settings - Settings management using Pydantic.
+10. psycopg2-binary - PostgreSQL database adapter for the Python programming language.
+
+============================================================
+AI ENGINE (Python / Computer Vision)
+path: /driver_ai/requirements.txt
+============================================================
+1. opencv-python - Wrapper package for OpenCV python bindings.
+2. mediapipe - Cross-platform, customizable ML solutions for live and streaming media (Face Mesh).
+3. torch - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+4. torchvision - Image and video datasets and models for torch deep learning.
+5. numpy - The fundamental package for scientific computing with Python.
+6. onnxruntime - High performance scoring engine for Open Neural Network Exchange (ONNX) models.
+7. pygame - A set of Python modules designed for writing video games (Used for audio alerts).
+8. requests - HTTP library for Python.
+9. mouse - Hook into and control the mouse (if used for interaction features).
+10. fer - Facial Expression Recognition library.
+11. tensorflow - End-to-end open source platform for machine learning.
+
+============================================================
+FRONTEND (React / TypeScript)
+path: /frontend/package.json
+============================================================
+1. react - A JavaScript library for building user interfaces.
+2. react-dom - React package for working with the DOM.
+3. react-router-dom - DOM bindings for React Router.
+4. recharts - Redefined chart library built with React and D3.
+5. tailwindcss - A utility-first CSS framework for rapidly building custom designs.
+6. lucide-react - Beautiful & consistent icon toolkit made by the community.
+7. axios - Promise based HTTP client for the browser and node.js.
+8. autoprefixer - Parse CSS and add vendor prefixes to rules by Can I Use.
+9. postcss - A tool for transforming CSS with JavaScript.
+10. vite - Next generation frontend tooling.
+11. typescript - A typed superset of JavaScript that compiles to plain JavaScript.
