@@ -14,11 +14,11 @@ A robust, real-time driver monitoring solution designed to prevent accidents cau
 ## 📸 Screenshots
 
 ### 1. Driver Dashboard (Family Monitor)
-![Driver Dashboard](https://raw.githubusercontent.com/srivathsangms/DriveBy.AI/main/driver_view.jpeg)
+![Driver Dashboard](https://raw.githubusercontent.com/srivathsangms/DriveBy.AI/main/family_view.jpeg)
 > The dashboard provides a live view of the driver's fatigue score, emotion, and current status.
 
 ### 2. AI Engine HUD (Driver View)
-![Driver Dashboard](https://raw.githubusercontent.com/srivathsangms/DriveBy.AI/main/family_view.jpeg)
+![Driver Dashboard](https://raw.githubusercontent.com/srivathsangms/DriveBy.AI/main/driver_view.jpeg)
 > The local AI engine displays real-time metrics including EAR (Eye Aspect Ratio) and MAR (Mouth Aspect Ratio).
 
 ## 🛠️ Technology Stack
